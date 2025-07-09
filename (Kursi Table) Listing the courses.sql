@@ -1,0 +1,6 @@
+
+
+SELECT nameofthecourse FROM kursi;
+
+ 
+ 
